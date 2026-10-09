@@ -1,7 +1,0 @@
-Eleonor
-<<<<<<< HEAD
-
-IT Software  met een minor in Robotics
-=======
-20
->>>>>>> a84fdd69a759fa2ec19ccc44994a53740b6951b6
